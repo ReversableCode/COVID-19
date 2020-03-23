@@ -10,7 +10,7 @@ for file in os.listdir(dir):
 	csv_path = open(filename, 'r')
 	json_path = open(filename + '.json', 'w')
 
-	fields = ("Country/Region", "Confirmed", "Deaths", "Recovered")
+	fields = ("Province/State", "Country/Region", "Last Update", "Confirmed", "Deaths", "Recovered")
 
 	reader = csv.DictReader(csv_path, fields)
 	out = json.dumps( [ row for row in reader ] )

@@ -1,8 +1,8 @@
 import csv, json
 import os
 
-filename = "/Users/Nab/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
-
+dir = "/Users/Nab/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/"
+filename = dir + '03-23-2020.csv'
 
 data = []
 with open(filename) as f:
@@ -10,5 +10,5 @@ with open(filename) as f:
 		data.append(row)
 
 json_data = json.dumps(data)
-json_path = open('/Users/Nab/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.json', 'w')
+json_path = open(filename + '.json', 'w')
 json_path.write(json_data)

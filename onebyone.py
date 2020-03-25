@@ -2,7 +2,7 @@ import csv, json
 import os
 
 dir = "/Users/Nab/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/"
-filename = dir + '03-23-2020.csv'
+filename = dir + '03-24-2020.csv'
 
 data = []
 with open(filename) as f:

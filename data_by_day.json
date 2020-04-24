@@ -2,8 +2,8 @@
     "data": {
         "Total": [
             {
-                "excluded": 18379,
-                "confirmed": 3568,
+                "excluded": 19124,
+                "confirmed": 3692,
                 "max_daily": 55
             }
         ],

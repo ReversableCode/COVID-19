@@ -2,10 +2,10 @@
     "data": {
         "country": [
             {
-                "excluded": 21546,
-                "confirmed": 3897,
-                "recovered": 537,
-                "deaths": 159
+                "excluded": 22425,
+                "confirmed": 4047,
+                "recovered": 557,
+                "deaths": 160
             }
         ],
         "regions": [
@@ -14,7 +14,7 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 502,
+                "confirmed": 523,
                 "recovered": 0,
                 "deaths": 1
             },
@@ -32,7 +32,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 503,
+                "confirmed": 515,
                 "recovered": 1,
                 "deaths": 8
             },
@@ -41,7 +41,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 299,
+                "confirmed": 304,
                 "recovered": 2,
                 "deaths": 4
             },
@@ -59,7 +59,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 1041,
+                "confirmed": 1058,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -68,7 +68,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 818,
+                "confirmed": 822,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA08",
                 "region_name_ar": "درعة تافيلالت",
                 "excluded": 0,
-                "confirmed": 403,
+                "confirmed": 493,
                 "recovered": 0,
                 "deaths": 0
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA10",
                 "region_name_ar": "كلميم - واد نون",
                 "excluded": 0,
-                "confirmed": 22,
+                "confirmed": 23,
                 "recovered": 0,
                 "deaths": 0
             },
@@ -119,5 +119,5 @@
             }
         ]
     },
-    "last_updated": "18:00 25-04-2020"
+    "last_updated": "10:00 26-04-2020"
 }

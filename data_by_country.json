@@ -5,7 +5,7 @@
                 "country_name_en": "Algeria",
                 "country_code": "AF01",
                 "country_name_ar": "الجزائر",
-                "confirmed": 3256,
+                "confirmed": 3382,
                 "recovered": 601,
                 "deaths": 313
             },
@@ -13,7 +13,7 @@
                 "country_name_en": "Tunisia",
                 "country_code": "AF02",
                 "country_name_ar": "تونس",
-                "confirmed": 939,
+                "confirmed": 949,
                 "recovered": 43,
                 "deaths": 34
             },
@@ -21,7 +21,7 @@
                 "country_name_en": "Egypt",
                 "country_code": "AF03",
                 "country_name_ar": "مصر",
-                "confirmed": 4319,
+                "confirmed": 4534,
                 "recovered": 589,
                 "deaths": 164
             },

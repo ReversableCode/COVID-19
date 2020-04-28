@@ -353,8 +353,8 @@
         {
             "excluded": 26122,
             "confirmed": 4246,
-            "recovered": 44,
-            "deaths": 1,
+            "recovered": 83,
+            "deaths": 3,
             "pub_date": "4/28/20"
         }
     ]

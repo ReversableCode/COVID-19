@@ -358,10 +358,10 @@
             "pub_date": "4/28/20"
         },
         {
-            "excluded": 27787,
-            "confirmed": 4289,
-            "recovered": 112,
-            "deaths": 2,
+            "excluded": 28609,
+            "confirmed": 4321,
+            "recovered": 150,
+            "deaths": 3,
             "pub_date": "4/29/20"
         }
     ]

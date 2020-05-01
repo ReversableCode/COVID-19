@@ -372,9 +372,9 @@
             "pub_date": "4/30/20"
         },
         {
-            "excluded": 31274,
-            "confirmed": 4529,
-            "recovered": 71,
+            "excluded": 32437,
+            "confirmed": 4569,
+            "recovered": 99,
             "deaths": 1,
             "pub_date": "5/01/20"
         }

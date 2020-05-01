@@ -301,6 +301,12 @@
                 "excluded": 1809,
                 "confirmed": 102,
                 "total": 1911
+            },
+            {
+                "date": "5/01/2020",
+                "excluded": 856,
+                "confirmed": 106,
+                "total": 962
             }
         ]
     }

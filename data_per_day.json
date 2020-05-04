@@ -393,10 +393,10 @@
             "pub_date": "5/03/20"
         },
         {
-            "excluded": 39076,
-            "confirmed": 5000,
-            "recovered": 127,
-            "deaths": 3,
+            "excluded": 40249,
+            "confirmed": 5053,
+            "recovered": 215,
+            "deaths": 5,
             "pub_date": "5/04/20"
         }
     ]

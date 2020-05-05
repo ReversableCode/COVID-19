@@ -398,6 +398,13 @@
             "recovered": 215,
             "deaths": 5,
             "pub_date": "5/04/20"
+        },
+        {
+            "excluded": 42684,
+            "confirmed": 5153,
+            "recovered": 146,
+            "deaths": 1,
+            "pub_date": "5/05/20"
         }
     ]
 }

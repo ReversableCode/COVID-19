@@ -440,6 +440,13 @@
             "recovered": 93,
             "deaths": 2,
             "pub_date": "5/10/20"
+        },
+        {
+            "excluded": 49604,
+            "confirmed": 5505,
+            "recovered": 205,
+            "deaths": 0,
+            "pub_date": "5/10/20"
         }
     ]
 }

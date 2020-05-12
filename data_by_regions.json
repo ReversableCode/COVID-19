@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 64299,
-                "confirmed": 6380,
-                "recovered": 2930,
+                "excluded": 65397,
+                "confirmed": 6418,
+                "recovered": 2991,
                 "deaths": 188
             }
         ],

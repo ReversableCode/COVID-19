@@ -14,7 +14,7 @@
                 "region_code": "MA05",
                 "region_name_ar": "بني ملال - خنيفرة",
                 "excluded": 0,
-                "confirmed": 109,
+                "confirmed": 112,
                 "recovered": 1,
                 "deaths": 2
             },
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 1940,
+                "confirmed": 1969,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -32,7 +32,7 @@
                 "region_code": "MA08",
                 "region_name_ar": "درعة تافيلالت",
                 "excluded": 0,
-                "confirmed": 586,
+                "confirmed": 588,
                 "recovered": 0,
                 "deaths": 0
             },
@@ -50,7 +50,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 938,
+                "confirmed": 941,
                 "recovered": 1,
                 "deaths": 8
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 1255,
+                "confirmed": 1262,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -86,7 +86,7 @@
                 "region_code": "MA02",
                 "region_name_ar": "الجهة الشرقية",
                 "excluded": 0,
-                "confirmed": 178,
+                "confirmed": 180,
                 "recovered": 0,
                 "deaths": 3
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 663,
+                "confirmed": 667,
                 "recovered": 2,
                 "deaths": 4
             },
@@ -104,7 +104,7 @@
                 "region_code": "MA09",
                 "region_name_ar": "سوس - ماسة",
                 "excluded": 0,
-                "confirmed": 75,
+                "confirmed": 77,
                 "recovered": 1,
                 "deaths": 2
             },
@@ -113,7 +113,7 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 948,
+                "confirmed": 953,
                 "recovered": 0,
                 "deaths": 1
             }

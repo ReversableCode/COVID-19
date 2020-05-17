@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 1969,
+                "confirmed": 2039,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -50,7 +50,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 941,
+                "confirmed": 945,
                 "recovered": 1,
                 "deaths": 8
             },

@@ -483,12 +483,19 @@
             "deaths": 2,
             "pub_date": "5/16/20"
         },
-                {
+        {
             "excluded": 71315,
             "confirmed": 6607,
             "recovered": 173,
             "deaths": 0,
             "pub_date": "5/17/20"
+        },
+        {
+            "excluded": 71315,
+            "confirmed": 6607,
+            "recovered": 72,
+            "deaths": 0,
+            "pub_date": "5/18/20"
         }
     ]
 }

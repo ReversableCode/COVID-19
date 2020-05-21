@@ -2,8 +2,8 @@
     "data": {
         "Total": [
             {
-                "excluded": 98871,
-                "confirmed": 7133,
+                "excluded": 105786,
+                "confirmed": 7211,
                 "max_daily": 55
             }
         ],
@@ -421,6 +421,12 @@
                 "excluded": 5527,
                 "confirmed": 110,
                 "total": 5637
+            },
+            {
+                "date": "5/21/2020",
+                "excluded": 6915,
+                "confirmed": 78,
+                "total": 6993
             }
         ]
     }

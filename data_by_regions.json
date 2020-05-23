@@ -2,10 +2,10 @@
     "data": {
         "country": [
             {
-                "excluded": 125593,
-                "confirmed": 7375,
-                "recovered": 4573,
-                "deaths": 197
+                "excluded": 126155,
+                "confirmed": 7406,
+                "recovered": 4638,
+                "deaths": 198
             }
         ],
         "regions": [
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2355,
+                "confirmed": 2385,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -86,7 +86,7 @@
                 "region_code": "MA02",
                 "region_name_ar": "الجهة الشرقية",
                 "excluded": 0,
-                "confirmed": 181,
+                "confirmed": 182,
                 "recovered": 0,
                 "deaths": 3
             },
@@ -119,5 +119,5 @@
             }
         ]
     },
-    "last_updated": "10:00 23-05-2020"
+    "last_updated": "16:00 23-05-2020"
 }

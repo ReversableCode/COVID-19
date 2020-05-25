@@ -2,10 +2,10 @@
     "data": {
         "country": [
             {
-                "excluded": 135449,
-                "confirmed": 7433,
-                "recovered": 4703,
-                "deaths": 199
+                "excluded": 139103,
+                "confirmed": 7495,
+                "recovered": 4737,
+                "deaths": 200
             }
         ],
         "regions": [
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2397,
+                "confirmed": 2434,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -50,7 +50,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 994,
+                "confirmed": 995,
                 "recovered": 1,
                 "deaths": 8
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 1319,
+                "confirmed": 1322,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 688,
+                "confirmed": 694,
                 "recovered": 2,
                 "deaths": 4
             },
@@ -104,7 +104,7 @@
                 "region_code": "MA09",
                 "region_name_ar": "سوس - ماسة",
                 "excluded": 0,
-                "confirmed": 85,
+                "confirmed": 87,
                 "recovered": 1,
                 "deaths": 2
             },
@@ -113,11 +113,11 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 1013,
+                "confirmed": 1026,
                 "recovered": 0,
                 "deaths": 1
             }
         ]
     },
-    "last_updated": "16:00 24-05-2020"
+    "last_updated": "10:00 25-05-2020"
 }

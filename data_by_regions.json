@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 148023,
-                "confirmed": 7556,
-                "recovered": 4841,
+                "excluded": 153788,
+                "confirmed": 7577,
+                "recovered": 4881,
                 "deaths": 202
             }
         ],
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2474,
+                "confirmed": 2495,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -119,5 +119,5 @@
             }
         ]
     },
-    "last_updated": "10:00 26-05-2020"
+    "last_updated": "18:00 26-05-2020"
 }

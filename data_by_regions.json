@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 155791,
-                "confirmed": 7584,
-                "recovered": 4969,
+                "excluded": 163112,
+                "confirmed": 7601,
+                "recovered": 4978,
                 "deaths": 202
             }
         ],
@@ -14,7 +14,7 @@
                 "region_code": "MA05",
                 "region_name_ar": "بني ملال - خنيفرة",
                 "excluded": 0,
-                "confirmed": 113,
+                "confirmed": 114,
                 "recovered": 1,
                 "deaths": 2
             },
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2495,
+                "confirmed": 2507,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -50,7 +50,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 995,
+                "confirmed": 997,
                 "recovered": 1,
                 "deaths": 8
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 696,
+                "confirmed": 698,
                 "recovered": 2,
                 "deaths": 4
             },
@@ -119,5 +119,5 @@
             }
         ]
     },
-    "last_updated": "10:00 27-05-2020"
+    "last_updated": "16:00 27-05-2020"
 }

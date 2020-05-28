@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 163112,
-                "confirmed": 7601,
-                "recovered": 4978,
+                "excluded": 166574,
+                "confirmed": 7636,
+                "recovered": 5109,
                 "deaths": 202
             }
         ],
@@ -119,5 +119,5 @@
             }
         ]
     },
-    "last_updated": "16:00 27-05-2020"
+    "last_updated": "10:00 28-05-2020"
 }

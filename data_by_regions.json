@@ -2,10 +2,10 @@
     "data": {
         "country": [
             {
-                "excluded": 188729,
-                "confirmed": 7740,
-                "recovered": 5377,
-                "deaths": 203
+                "excluded": 192218,
+                "confirmed": 7780,
+                "recovered": 5401,
+                "deaths": 204
             }
         ],
         "regions": [
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2581,
+                "confirmed": 2619,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -113,11 +113,11 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 1092,
+                "confirmed": 1094,
                 "recovered": 0,
                 "deaths": 1
             }
         ]
     },
-    "last_updated": "10:00 30-05-2020"
+    "last_updated": "18:00 30-05-2020"
 }

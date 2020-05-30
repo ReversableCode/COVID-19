@@ -577,8 +577,8 @@
         {
             "excluded": 71315,
             "confirmed": 6607,
-            "recovered": 106,
-            "deaths": 1,
+            "recovered": 130,
+            "deaths": 2,
             "pub_date": "5/30/20"
         }
     ]

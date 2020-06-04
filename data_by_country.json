@@ -21,7 +21,7 @@
                 "country_name_en": "Egypt",
                 "country_code": "AF03",
                 "country_name_ar": "مصر",
-                "confirmed": 27536,
+                "confirmed": 28615,
                 "recovered": 589,
                 "deaths": 164
             },
@@ -29,7 +29,7 @@
                 "country_name_en": "Mauritania",
                 "country_code": "AF04",
                 "country_name_ar": "موريتانيا",
-                "confirmed": 668,
+                "confirmed": 745,
                 "recovered": 2,
                 "deaths": 1
             },
@@ -37,7 +37,7 @@
                 "country_name_en": "Libya",
                 "country_code": "AF05",
                 "country_name_ar": "ليبيا",
-                "confirmed": 182,
+                "confirmed": 196,
                 "recovered": 1,
                 "deaths": 9
             }

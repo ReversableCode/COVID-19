@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 261619,
-                "confirmed": 8030,
-                "recovered": 7215,
+                "excluded": 267278,
+                "confirmed": 8071,
+                "recovered": 7268,
                 "deaths": 208
             }
         ],
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2711,
+                "confirmed": 2714,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 1398,
+                "confirmed": 1424,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -86,7 +86,7 @@
                 "region_code": "MA02",
                 "region_name_ar": "الجهة الشرقية",
                 "excluded": 0,
-                "confirmed": 187,
+                "confirmed": 193,
                 "recovered": 0,
                 "deaths": 3
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 713,
+                "confirmed": 718,
                 "recovered": 2,
                 "deaths": 4
             },
@@ -113,11 +113,11 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 1154,
+                "confirmed": 1155,
                 "recovered": 0,
                 "deaths": 1
             }
         ]
     },
-    "last_updated": "10:00 05-06-2020"
+    "last_updated": "18:00 05-06-2020"
 }

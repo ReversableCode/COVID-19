@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 297729,
-                "confirmed": 8224,
-                "recovered": 7364,
+                "excluded": 308311,
+                "confirmed": 8250,
+                "recovered": 7370,
                 "deaths": 208
             }
         ],
@@ -14,7 +14,7 @@
                 "region_code": "MA05",
                 "region_name_ar": "بني ملال - خنيفرة",
                 "excluded": 0,
-                "confirmed": 125,
+                "confirmed": 127,
                 "recovered": 1,
                 "deaths": 2
             },
@@ -23,7 +23,7 @@
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
                 "excluded": 0,
-                "confirmed": 2767,
+                "confirmed": 2777,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -59,7 +59,7 @@
                 "region_code": "MA10",
                 "region_name_ar": "كلميم - واد نون",
                 "excluded": 0,
-                "confirmed": 45,
+                "confirmed": 46,
                 "recovered": 0,
                 "deaths": 0
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 1451,
+                "confirmed": 1452,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 748,
+                "confirmed": 756,
                 "recovered": 2,
                 "deaths": 4
             },
@@ -113,11 +113,11 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 1182,
+                "confirmed": 1186,
                 "recovered": 0,
                 "deaths": 1
             }
         ]
     },
-    "last_updated": "18:00 07-06-2020"
+    "last_updated": "10:00 08-06-2020"
 }

@@ -50,7 +50,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 1026,
+                "confirmed": 1027,
                 "recovered": 1,
                 "deaths": 8
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 1452,
+                "confirmed": 1481,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -86,7 +86,7 @@
                 "region_code": "MA02",
                 "region_name_ar": "الجهة الشرقية",
                 "excluded": 0,
-                "confirmed": 194,
+                "confirmed": 196,
                 "recovered": 0,
                 "deaths": 3
             },
@@ -95,7 +95,7 @@
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
                 "excluded": 0,
-                "confirmed": 756,
+                "confirmed": 776,
                 "recovered": 2,
                 "deaths": 4
             },

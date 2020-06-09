@@ -2,9 +2,9 @@
     "data": {
         "country": [
             {
-                "excluded": 327235,
-                "confirmed": 8408,
-                "recovered": 7423,
+                "excluded": 331134,
+                "confirmed": 8437,
+                "recovered": 7493,
                 "deaths": 208
             }
         ],
@@ -50,7 +50,7 @@
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
                 "excluded": 0,
-                "confirmed": 1029,
+                "confirmed": 1031,
                 "recovered": 1,
                 "deaths": 8
             },
@@ -77,7 +77,7 @@
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
                 "excluded": 0,
-                "confirmed": 1489,
+                "confirmed": 1496,
                 "recovered": 2,
                 "deaths": 8
             },
@@ -113,11 +113,11 @@
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
                 "excluded": 0,
-                "confirmed": 1201,
+                "confirmed": 1221,
                 "recovered": 0,
                 "deaths": 1
             }
         ]
     },
-    "last_updated": "10:00 09-06-2020"
+    "last_updated": "18:00 09-06-2020"
 }

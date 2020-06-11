@@ -651,12 +651,19 @@
             "deaths": 0,
             "pub_date": "6/09/20"
         },
-                {
+        {
             "excluded": 71315,
             "confirmed": 6607,
             "recovered": 72,
             "deaths": 3,
             "pub_date": "6/10/20"
+        },
+        {
+            "excluded": 71315,
+            "confirmed": 6607,
+            "recovered": 5,
+            "deaths": 0,
+            "pub_date": "6/11/20"
         }
     ]
 }

@@ -696,9 +696,16 @@
         {
             "excluded": 71315,
             "confirmed": 6607,
-            "recovered": 52,
+            "recovered": 109,
             "deaths": 0,
             "pub_date": "6/16/20"
+        },
+        {
+            "excluded": 71315,
+            "confirmed": 6607,
+            "recovered": 23,
+            "deaths": 0,
+            "pub_date": "6/17/20"
         }
     ]
 }

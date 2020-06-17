@@ -580,9 +580,15 @@
             },
             {
                 "date": "6/16/2020",
-                "excluded": 8465,
-                "confirmed": 36,
-                "total": 8501
+                "excluded": 16450,
+                "confirmed": 46,
+                "total": 16496
+            },
+            {
+                "date": "6/17/2020",
+                "excluded": 7335,
+                "confirmed": 54,
+                "total": 7389
             }
         ]
     }

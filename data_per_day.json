@@ -1,711 +1,549 @@
 {
     "data": [
         {
-            "excluded": 0,
-            "confirmed": 3,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/9/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 3,
             "recovered": 0,
             "deaths": 1,
             "pub_date": "3/10/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 6,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/11/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 6,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/12/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 8,
             "recovered": 1,
             "deaths": 0,
             "pub_date": "3/13/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 18,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/14/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 28,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/15/20"
         },
         {
-            "excluded": 0,
-            "confirmed": 37,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/16/20"
         },
         {
-            "excluded": 183,
-            "confirmed": 44,
             "recovered": 0,
             "deaths": 1,
             "pub_date": "3/17/20"
         },
         {
-            "excluded": 263,
-            "confirmed": 54,
             "recovered": 0,
             "deaths": 0,
             "pub_date": "3/18/20"
         },
         {
-            "excluded": 307,
-            "confirmed": 63,
             "recovered": 1,
             "deaths": 0,
             "pub_date": "3/19/20"
         },
         {
-            "excluded": 385,
-            "confirmed": 79,
             "recovered": 0,
             "deaths": 1,
             "pub_date": "3/20/20"
         },
         {
-            "excluded": 441,
-            "confirmed": 96,
             "recovered": 1,
             "deaths": 0,
             "pub_date": "3/21/20"
         },
         {
-            "excluded": 512,
-            "confirmed": 115,
             "recovered": 0,
             "deaths": 1,
             "pub_date": "3/22/20"
         },
         {
-            "excluded": 643,
-            "confirmed": 143,
             "recovered": 2,
             "deaths": 0,
             "pub_date": "3/23/20"
         },
         {
-            "excluded": 685,
-            "confirmed": 170,
             "recovered": 1,
             "deaths": 1,
             "pub_date": "3/24/20"
         },
         {
-            "excluded": 740,
-            "confirmed": 225,
             "recovered": 1,
             "deaths": 1,
             "pub_date": "3/25/20"
         },
         {
-            "excluded": 931,
-            "confirmed": 275,
             "recovered": 1,
             "deaths": 4,
             "pub_date": "3/26/20"
         },
         {
-            "excluded": 931,
-            "confirmed": 333,
             "recovered": 3,
             "deaths": 11,
             "pub_date": "3/27/20"
         },
         {
-            "excluded": 1574,
-            "confirmed": 359,
             "recovered": 0,
             "deaths": 3,
             "pub_date": "3/28/20"
         },
         {
-            "excluded": 1794,
-            "confirmed": 463,
             "recovered": 2,
             "deaths": 2,
             "pub_date": "3/29/20"
         },
         {
-            "excluded": 2195,
-            "confirmed": 534,
             "recovered": 1,
             "deaths": 7,
             "pub_date": "3/30/20"
         },
         {
-            "excluded": 2462,
-            "confirmed": 602,
             "recovered": 10,
             "deaths": 3,
             "pub_date": "3/31/20"
         },
         {
-            "excluded": 2653,
-            "confirmed": 642,
             "recovered": 2,
             "deaths": 1,
             "pub_date": "4/1/20"
         },
         {
-            "excluded": 2815,
-            "confirmed": 691,
             "recovered": 4,
             "deaths": 7,
             "pub_date": "4/2/20"
         },
         {
-            "excluded": 3062,
-            "confirmed": 761,
             "recovered": 26,
             "deaths": 3,
             "pub_date": "4/3/20"
         },
         {
-            "excluded": 3304,
-            "confirmed": 883,
             "recovered": 9,
             "deaths": 11,
             "pub_date": "4/4/20"
         },
         {
-            "excluded": 3589,
-            "confirmed": 990,
             "recovered": 6,
             "deaths": 11,
             "pub_date": "4/5/20"
         },
         {
-            "excluded": 3984,
-            "confirmed": 1120,
             "recovered": 10,
             "deaths": 11,
             "pub_date": "4/6/20"
         },
         {
-            "excluded": 4131,
-            "confirmed": 1184,
             "recovered": 12,
             "deaths": 10,
             "pub_date": "4/7/20"
         },
         {
-            "excluded": 4477,
-            "confirmed": 1275,
             "recovered": 4,
             "deaths": 3,
             "pub_date": "4/8/20"
         },
         {
-            "excluded": 4770,
-            "confirmed": 1346,
             "recovered": 12,
             "deaths": 4,
             "pub_date": "4/9/20"
         },
         {
-            "excluded": 5423,
-            "confirmed": 1431,
             "recovered": 13,
             "deaths": 10,
             "pub_date": "4/10/20"
         },
         {
-            "excluded": 6207,
-            "confirmed": 1527,
             "recovered": 24,
             "deaths": 4,
             "pub_date": "4/11/20"
         },
         {
-            "excluded": 6943,
-            "confirmed": 1661,
             "recovered": 31,
             "deaths": 7,
             "pub_date": "4/12/20"
         },
         {
-            "excluded": 7206,
-            "confirmed": 1746,
             "recovered": 26,
             "deaths": 8,
             "pub_date": "4/13/20"
         },
         {
-            "excluded": 8034,
-            "confirmed": 1888,
             "recovered": 14,
             "deaths": 0,
             "pub_date": "4/14/20"
         },
         {
-            "excluded": 8626,
-            "confirmed": 2024,
             "recovered": 12,
             "deaths": 1,
             "pub_date": "4/15/20"
         },
         {
-            "excluded": 9713,
-            "confirmed": 2283,
             "recovered": 20,
             "deaths": 3,
             "pub_date": "4/16/20"
         },
         {
-            "excluded": 10388,
-            "confirmed": 2564,
             "recovered": 32,
             "deaths": 5,
             "pub_date": "4/17/20"
         },
         {
-            "excluded": 11004,
-            "confirmed": 2685,
             "recovered": 33,
             "deaths": 2,
             "pub_date": "4/18/20"
         },
         {
-            "excluded": 11369,
-            "confirmed": 2820,
             "recovered": 13,
             "deaths": 4,
             "pub_date": "4/19/20"
         },
         {
-            "excluded": 13340,
-            "confirmed": 3046,
             "recovered": 23,
             "deaths": 2,
             "pub_date": "4/20/20"
         },
         {
-            "excluded": 14891,
-            "confirmed": 3209,
             "recovered": 43,
             "deaths": 2,
             "pub_date": "4/21/20"
         },
         {
-            "excluded": 15569,
-            "confirmed": 3377,
             "recovered": 24,
             "deaths": 4,
             "pub_date": "4/22/20"
         },
         {
-            "excluded": 18379,
-            "confirmed": 3568,
             "recovered": 39,
             "deaths": 6,
             "pub_date": "4/23/20"
         },
         {
-            "excluded": 19124,
-            "confirmed": 3692,
             "recovered": 30,
             "deaths": 3,
             "pub_date": "4/24/20"
         },
         {
-            "excluded": 20723,
-            "confirmed": 3889,
             "recovered": 51,
             "deaths": 1,
             "pub_date": "4/25/20"
         },
         {
-            "excluded": 22425,
-            "confirmed": 4047,
             "recovered": 56,
             "deaths": 2,
             "pub_date": "4/26/20"
         },
         {
-            "excluded": 24301,
-            "confirmed": 4115,
             "recovered": 102,
             "deaths": 1,
             "pub_date": "4/27/20"
         },
         {
-            "excluded": 26122,
-            "confirmed": 4246,
             "recovered": 83,
             "deaths": 3,
             "pub_date": "4/28/20"
         },
         {
-            "excluded": 28609,
-            "confirmed": 4321,
             "recovered": 150,
             "deaths": 3,
             "pub_date": "4/29/20"
         },
         {
-            "excluded": 29563,
-            "confirmed": 4359,
             "recovered": 56,
             "deaths": 2,
             "pub_date": "4/30/20"
         },
         {
-            "excluded": 32437,
-            "confirmed": 4569,
             "recovered": 99,
             "deaths": 1,
             "pub_date": "5/01/20"
         },
         {
-            "excluded": 34638,
-            "confirmed": 4729,
             "recovered": 173,
             "deaths": 2,
             "pub_date": "5/02/20"
         },
         {
-            "excluded": 37209,
-            "confirmed": 4903,
             "recovered": 182,
             "deaths": 1,
             "pub_date": "5/03/20"
         },
         {
-            "excluded": 40249,
-            "confirmed": 5053,
             "recovered": 215,
             "deaths": 5,
             "pub_date": "5/04/20"
         },
         {
-            "excluded": 44351,
-            "confirmed": 5219,
             "recovered": 185,
             "deaths": 2,
             "pub_date": "5/05/20"
         },
         {
-            "excluded": 46718,
-            "confirmed": 5382,
             "recovered": 179,
             "deaths": 2,
             "pub_date": "5/06/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 162,
             "deaths": 0,
             "pub_date": "5/07/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 145,
             "deaths": 3,
             "pub_date": "5/08/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 137,
             "deaths": 0,
             "pub_date": "5/09/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 93,
             "deaths": 2,
             "pub_date": "5/10/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 257,
             "deaths": 0,
             "pub_date": "5/11/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 180,
             "deaths": 0,
             "pub_date": "5/12/20"
         },
         {
-            "excluded": 49604,
-            "confirmed": 5505,
             "recovered": 140,
             "deaths": 0,
             "pub_date": "5/13/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 179,
             "deaths": 2,
             "pub_date": "5/14/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 90,
             "deaths": 0,
             "pub_date": "5/15/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 87,
             "deaths": 2,
             "pub_date": "5/16/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 173,
             "deaths": 0,
             "pub_date": "5/17/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 98,
             "deaths": 0,
             "pub_date": "5/18/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 143,
             "deaths": 1,
             "pub_date": "5/19/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 197,
             "deaths": 1,
             "pub_date": "5/20/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 182,
             "deaths": 2,
             "pub_date": "5/21/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 97,
             "deaths": 1,
             "pub_date": "5/22/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 261,
             "deaths": 1,
             "pub_date": "5/23/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 65,
             "deaths": 1,
             "pub_date": "5/24/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 71,
             "deaths": 1,
             "pub_date": "5/25/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 107,
             "deaths": 2,
             "pub_date": "5/26/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 97,
             "deaths": 0,
             "pub_date": "5/27/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 217,
             "deaths": 0,
             "pub_date": "5/28/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 76,
             "deaths": 0,
             "pub_date": "5/29/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 130,
             "deaths": 2,
             "pub_date": "5/30/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 58,
             "deaths": 1,
             "pub_date": "5/31/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 434,
             "deaths": 0,
             "pub_date": "6/01/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 517,
             "deaths": 1,
             "pub_date": "6/02/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 456,
             "deaths": 0,
             "pub_date": "6/03/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 329,
             "deaths": 2,
             "pub_date": "6/04/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 73,
             "deaths": 0,
             "pub_date": "6/05/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 47,
             "deaths": 0,
             "pub_date": "6/06/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 49,
             "deaths": 0,
             "pub_date": "6/07/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 44,
             "deaths": 0,
             "pub_date": "6/08/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 85,
             "deaths": 0,
             "pub_date": "6/09/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 72,
             "deaths": 3,
             "pub_date": "6/10/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 18,
             "deaths": 0,
             "pub_date": "6/11/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 35,
             "deaths": 1,
             "pub_date": "6/12/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 78,
             "deaths": 0,
             "pub_date": "6/13/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 69,
             "deaths": 0,
             "pub_date": "6/14/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 63,
             "deaths": 0,
             "pub_date": "6/15/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
             "recovered": 109,
             "deaths": 0,
             "pub_date": "6/16/20"
         },
         {
-            "excluded": 71315,
-            "confirmed": 6607,
-            "recovered": 23,
-            "deaths": 0,
+            "recovered": 56,
+            "deaths": 1,
             "pub_date": "6/17/20"
+        },
+        {
+            "recovered": 48,
+            "deaths": 0,
+            "pub_date": "6/18/20"
+        },
+        {
+            "recovered": 76,
+            "deaths": 0,
+            "pub_date": "6/19/20"
+        },
+        {
+            "recovered": 106,
+            "deaths": 0,
+            "pub_date": "6/20/20"
+        },
+        {
+            "recovered": 61,
+            "deaths": 1,
+            "pub_date": "6/21/20"
+        },
+        {
+            "recovered": 82,
+            "deaths": 0,
+            "pub_date": "6/22/20"
+        },
+        {
+            "recovered": 41,
+            "deaths": 0,
+            "pub_date": "6/23/20"
+        },
+        {
+            "recovered": 61,
+            "deaths": 2,
+            "pub_date": "6/24/20"
+        },
+        {
+            "recovered": 32,
+            "deaths": 1,
+            "pub_date": "6/25/20"
         }
     ]
 }
